@@ -23,6 +23,7 @@ Evaluation and Testing:
 
 **7. Assess the model's performance** using the testing set, considering the chosen evaluation metrics.
 Visualize and analyze the model's predictions and any misclassifications.
+
 **8. Iterate and Refine:**
 Adjust the model architecture, hyperparameters, or data preprocessing based on insights from the evaluation process.
 Train the model again to observe improvements.
